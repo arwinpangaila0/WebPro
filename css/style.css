@@ -1,0 +1,33 @@
+.bg-gray {
+	background-color: #082032;
+}
+
+.gray {
+	color: #334756;
+}
+
+.btn-gray {
+	background-color: #334756;
+	border-color:  #334756;
+	color: white;
+}
+
+body {
+	background-color: #575757;
+}
+
+.logo{
+	margin-left: 85%;
+	position: relative;
+}
+
+.backgroundd {
+	background: url(LogoT.png) no-repeat center;
+}
+
+.container-sm{
+	color: white;
+}
+.table{
+	color: white;
+}
